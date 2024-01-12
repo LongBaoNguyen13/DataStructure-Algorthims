@@ -1,2 +1,2 @@
 # DataStructure-Algorthims
-Alorthims are everywhere
+Algorthims are everywhere
